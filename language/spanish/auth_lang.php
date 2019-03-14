@@ -52,15 +52,15 @@ $lang['deactivate_subheading']               = '¿Estás seguro que quieres desa
 $lang['deactivate_confirm_y_label']          = 'Sí:';
 $lang['deactivate_confirm_n_label']          = 'No:';
 $lang['deactivate_submit_btn']               = 'Enviar';
-$lang['deactivate_validation_confirm_label'] = 'confirmación';
+$lang['deactivate_validation_confirm_label'] = 'Confirmación';
 $lang['deactivate_validation_user_id_label'] = 'ID de usuario';
 
 // Create User
 $lang['create_user_heading']                           = 'Crear Usuario';
-$lang['create_user_subheading']                        = 'Por favor, introduzce la información del usuario.';
+$lang['create_user_subheading']                        = 'Por favor, introduce la información del usuario.';
 $lang['create_user_fname_label']                       = 'Nombre:';
 $lang['create_user_lname_label']                       = 'Apellidos:';
-$lang['create_user_identity_label']                    = 'Identity:';
+$lang['create_user_identity_label']                    = 'Identidad:';
 $lang['create_user_company_label']                     = 'Compañía:';
 $lang['create_user_email_label']                       = 'Email:';
 $lang['create_user_phone_label']                       = 'Teléfono:';
@@ -69,7 +69,7 @@ $lang['create_user_password_confirm_label']            = 'Confirmar contraseña:
 $lang['create_user_submit_btn']                        = 'Crear Usuario';
 $lang['create_user_validation_fname_label']            = 'Nombre';
 $lang['create_user_validation_lname_label']            = 'Apellidos';
-$lang['create_user_validation_identity_label']         = 'Identity';
+$lang['create_user_validation_identity_label']         = 'Identidad';
 $lang['create_user_validation_email_label']            = 'Correo electrónico';
 $lang['create_user_validation_phone_label']            = 'Teléfono';
 $lang['create_user_validation_company_label']          = 'Nombre de la compañía';
@@ -137,7 +137,7 @@ $lang['forgot_password_validation_email_label']  = 'Correo Electrónico';
 $lang['forgot_password_username_identity_label'] = 'Usuario';
 $lang['forgot_password_email_identity_label']    = 'Email';
 $lang['forgot_password_email_not_found']         = 'El correo electrónico no existe.';
-$lang['forgot_password_identity_not_found']         = 'No record of that username address.';
+$lang['forgot_password_identity_not_found']         = 'No hay registros de esa dirección de usuario.';
 
 // Reset Password
 $lang['reset_password_heading']                               = 'Cambiar Contraseña';
@@ -150,7 +150,7 @@ $lang['reset_password_validation_new_password_confirm_label'] = 'Confirmar Nueva
 // Activation Email
 $lang['email_activate_heading']    = 'Activar cuenta por %s';
 $lang['email_activate_subheading'] = 'Por favor ingresa en este link para %s.';
-$lang['email_activate_link']       = 'activar tu cuenta';
+$lang['email_activate_link']       = 'Activar tu cuenta';
 
 // Forgot Password Email
 $lang['email_forgot_password_heading']    = 'Reestablecer contraseña para %s';
